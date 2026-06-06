@@ -58,7 +58,7 @@ body {
   background-attachment: fixed;
   cursor: default;
   margin: 0px;
-  height: 100dvh;
+  min-height: 100dvh;
 }
 
 header{
